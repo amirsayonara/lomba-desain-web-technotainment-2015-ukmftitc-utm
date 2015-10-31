@@ -6,7 +6,10 @@
 
 ```
 --- Tim Pembuat ---
-Kontingen: MAN BANGKALAN
+Nama Kontingen: MAN BANGKALAN
+Alamat        : Jl. Soekarno - Hatta No. 5 Bangkalan
+Telepon       : (+6231) 3095596
+Kode Pos      : 69116
 ------
 Nama     : MOCH. AMIR
 Kelas    : XII - IPA 1 (2015/2016)
