@@ -67,3 +67,20 @@ ITC
 ## Contact Person
 - Cp 1: 081938393959
 - Cp 2: 089977416974
+
+## Pratinjau
+Pratinjau yang berada dalam folder [pratinjau](pratinjau)
+### Halaman awal
+![alt text](pratinjau/awal.png 'Halaman awal')
+### Halaman profil
+![alt text](pratinjau/profil.png 'Halaman profil')
+### Halaman divisi
+![alt text](pratinjau/divisi.png 'Halaman divisi')
+### Halaman events
+![alt text](pratinjau/events.png 'Halaman events')
+### Halaman gallery
+![alt text](pratinjau/gallery.png 'Halaman gallery')
+### Halaman cp
+![alt text](pratinjau/cp.png 'Halaman cp')
+### Halaman sitemap
+![alt text](pratinjau/sitemap.png 'Halaman sitemap')
